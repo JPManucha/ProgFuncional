@@ -115,8 +115,4 @@ java-funcional-soluciones/
                 └── DataFactory.java
 ```
 
-Cada entidad está implementada como un **record**, introducido en Java 16, ideal para representar datos inmutables.
 
----
-
-¿Querés que te lo incluya directamente en el proyecto ZIP para que ya lo tengas listo dentro del repositorio?
